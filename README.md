@@ -2,4 +2,5 @@
 projekt na kontrolu sily hesla
 
 hodnotenie: 10/10
+
 edit: pridana aj JS verzia
